@@ -15,3 +15,7 @@
 ### PLC / Controller
 
 -   Beckhoff BX9000 TCP/IP
+
+### Router / Switches
+
+-   Aruba 32O Port
